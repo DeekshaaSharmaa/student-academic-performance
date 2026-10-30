@@ -97,8 +97,6 @@ div[data-testid="stVerticalBlock"] > div:has(> div.stButton) {
 }
 </style>
 """, unsafe_allow_html=True)
-
-
 # ---------------- LOAD DATA ----------------
 @st.cache_data
 def load_data():
