@@ -116,12 +116,24 @@ The dashboard will open in your web browser.
 
 ## 👥 Team Members
 
-1. **[Team Member 1]** – [GitHub Username]
-2. **[Team Member 2]** – [GitHub Username]
-3. **[Team Member 3]** – [GitHub Username]
-4. **[Team Member 4]** – [GitHub Username]
 
-## 🚀 Future Improvements
+ TEAM LEADER : DEEKSHA
+ TEAM MEMBERS : 
+ NEELESH 
+ PRAKHAR
+ SUHANI
+ ARPIT
+ DIVYANSH
+ YASH
+ SHASHANK
+ AGRR
+ EKANSH
+ RUCHIR
+ SHIVAM
+ ANAS
+ RAJAN
+ 
+ ## 🚀 Future Improvements
 
 - Add more interactive dashboard filters.
 - Include additional academic performance indicators.
